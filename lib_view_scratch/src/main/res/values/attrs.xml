@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScratchView">
+        <attr name="scratch_radius" format="dimension" />
+        <attr name="scratch_mark_color" format="color|reference" />
+        <attr name="scratch_drawable" format="reference" />
+        <attr name="scratch_percent" format="float" />
+    </declare-styleable>
+</resources>

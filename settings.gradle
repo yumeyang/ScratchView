@@ -1,0 +1,3 @@
+include ':lib_view_scratch'
+include ':app'
+rootProject.name = "ScratchView"
