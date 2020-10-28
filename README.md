@@ -1,5 +1,6 @@
 # ScratchView
-Android自定义刮刮乐View
+
+自定义刮刮乐View
 
 使用方法
 
